@@ -1,4 +1,4 @@
-# 🛡️ OpenSSH Installation in Arch Linux
+# 🔐 OpenSSH Installation in Arch Linux
 
 This guide walks you through installing and enabling OpenSSH on Arch Linux.
 
