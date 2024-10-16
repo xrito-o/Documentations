@@ -1,19 +1,25 @@
+# 🛡️ OpenSSH Installation in Arch Linux
 
-# Openssh Install in Arch Linux
+This guide walks you through installing and enabling OpenSSH on Arch Linux.
 
+## 📦 Installation
 
+1. Install the `openssh` package.
 
-## Installation
+    ```bash
+    sudo pacman -S openssh
+    ```
 
-- Install openssh.
+2. Enable the `sshd` service to start at boot.
 
-```bash
-  sudo pacman -S openssh
-```
+    ```bash
+    sudo systemctl enable sshd.service
+    ```
 
-```bash
-  sudo systemctl enable sshd.service
-```
-```bash
-  sudo systemctl start sshd.service
-```
+3. Start the `sshd` service.
+
+    ```bash
+    sudo systemctl start sshd.service
+    ```
+
+You are now ready to use OpenSSH on your Arch Linux system! 🔐
