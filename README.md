@@ -8,3 +8,5 @@ A comprehensive guide to configuring and using OpenSSH on your systems.
 ## 🛡️ [WireGuard Installation Guide(Arch-linux)](https://github.com/xrito-o/Documentations/blob/main/wireguard_installation_guide.md)
 Step-by-step instructions to install and configure WireGuard for secure VPN connections.
 
+## 🔒 [Prevent Laptop Screen Off](https://github.com/xrito-o/Documentations/blob/main/prevent_laptop_screen_off.md)
+Instructions to keep your laptop screen on when closed.
