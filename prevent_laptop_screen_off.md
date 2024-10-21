@@ -1,7 +1,7 @@
-
 # Prevent Laptop from Turning Off the Screen When Lid is Closed
 
 This guide explains how to disable the screen from turning off when the laptop lid is closed on a remote machine.
+# ⚠️ Important: Do this over SSH! ⚠️
 
 ### Step 1: Modify logind configuration
 
