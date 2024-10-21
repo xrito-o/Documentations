@@ -8,7 +8,7 @@ This guide explains how to disable the screen from turning off when the laptop l
 Open the `logind.conf` file with a text editor like `nano`:
 
 ```bash
-nano /etc/systemd/logind.conf
+sudo nano /etc/systemd/logind.conf
 ```
 
 Add or modify the following lines:
@@ -23,7 +23,7 @@ HandleLidSwitchDocked=ignore
 To apply the changes, restart the `systemd-logind` service:
 
 ```bash
-systemctl restart systemd-logind
+sudo systemctl restart systemd-logind
 ```
 
 ### Step 3: Install `vbetool`
