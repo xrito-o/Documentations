@@ -11,21 +11,21 @@ Welcome to the **Japanese Language Documentation Hub**! This resource offers gui
 
 ## 🎥 **YouTube Channels**
 
-- [**Takashi Teaches Japanese**](https://www.youtube.com/@Takashi_teaches_Japanese)  
-  A highly recommended channel featuring a variety of Japanese lessons ranging from beginner to advanced.
+- [**Takashi Teaches Japanese**](https://www.youtube.com/@Takashi_teaches_Japanese) A highly recommended channel featuring a variety of Japanese lessons ranging from beginner to advanced.
+  
 
-- [**Japanese Reading Practice**](https://www.youtube.com/playlist?list=PLefw3goTt1CgNjT0XwUZwYokwWM86VMLI)  
-  Strengthen your reading skills with this playlist designed for learners of all levels.
+- [**Japanese Reading Practice**](https://www.youtube.com/playlist?list=PLefw3goTt1CgNjT0XwUZwYokwWM86VMLI) Strengthen your reading skills with this playlist designed for learners of all levels.
+  
 
-- [**Japanese N5 Grammar (Lesson 1-25)**](https://www.youtube.com/playlist?list=PLKOA3pgec-PYUd-aX8ArRqgfX8jvtJy6-)  
-  Master the essential N5 grammar rules with this complete video series.
+- [**Japanese N5 Grammar (Lesson 1-25)**](https://www.youtube.com/playlist?list=PLKOA3pgec-PYUd-aX8ArRqgfX8jvtJy6-) Master the essential N5 grammar rules with this complete video series.
+  
 
 
 
 ## 🛠 **Tools**
 
-- 📝 [**Capture2Text**](https://capture2text.sourceforge.net/)  
-  An essential tool for capturing text from images. This is incredibly handy when translating Japanese text in real-time or studying kanji on the go.
+- 📝 [**Capture2Text**](https://capture2text.sourceforge.net/) An essential tool for capturing text from images. This is incredibly handy when translating Japanese text in real-time or studying kanji on the go.
+  
 
 
 
