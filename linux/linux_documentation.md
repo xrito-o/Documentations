@@ -1,6 +1,6 @@
-# 📚 Documentation Hub
+# 📚 Linux Documentation Hub
 
-Welcome to the **Documentation Hub**! This is a centralized place for all the guides and tutorials you'll need. Below you'll find helpful links to various tools and technologies.
+Welcome to the **Linux Documentation Hub**! This is your comprehensive resource for guides and tutorials related to Linux. Below, you’ll find essential links to tools and technologies to help you navigate and optimize your Linux experience.
 
 ## 🔐 [OpenSSH Guide(Arch-linux)](https://github.com/xrito-o/Documentations/blob/main/linux/openssh.md)
 A comprehensive guide to configuring and using OpenSSH on your systems.
