@@ -5,8 +5,8 @@ Welcome to the **Japanese Language Documentation Hub**! This resource offers gui
 
 
 # 🗂 **Table of Contents**
-- [🎥 YouTube Channels](#-youtube-channels)
-- [🛠 Tools](#-tools)
+- **[🎥 YouTube Channels](#-youtube-channels)**
+- **[🛠 Tools](#-tools)**
 
 
 
