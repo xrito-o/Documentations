@@ -1,0 +1,469 @@
+CBT Nuggets - Ubuntu Linux Server Series Training Videos Course	https://drive.google.com/open?id=1U-Ol3nix-jTJJ35-cCXalbPK41REBw3E
+
+CBT Nuggets - MCSA 70-410 Installing and Configuring Windows Server 2012 Training Video Course	https://drive.google.com/open?id=1kctByE_CMD38dsrXJoEuAUroZZOFZFiZ
+
+CBT Nuggets - MCSA 70-411 Administering Windows Server 2012 Video Training Course	https://drive.google.com/open?id=1eqOzbpy1AZBxFmF_A_lMlwW2iu8AvIYN
+
+CBT Nuggets - MCSA 70-412 Configuring Advanced Windows Server 2012 Services Video Course	https://drive.google.com/open?id=1TIywDWRKayVmU5vimoZwD1ZdXKVn7efQ
+
+CBT Nuggets - MCSA 70-741 Networking with Windows Server 2016 Training Video Course	https://drive.google.com/open?id=1C7rTylBpONb42Gjz_lbrJ4JNzl6wCE9C
+
+CBT Nuggets - MCSE 70-465 Learning Microsoft SQL Server 2012 Training Video Course	https://drive.google.com/open?id=1F20LIZAlhW0y7UUl3CJX5AflM8ZLa98R
+
+CBT Nuggets - MCSE 70-413 Designing & Implementing a Server Infrastructure Video Course	https://drive.google.com/open?id=15I_HP5tOV-gXn0gN03iqSTv1gnyMAJs8
+
+CBT Nuggets - MCSE 70-414 Implementing & Advanced Server Infrastructure Training Video Course	https://drive.google.com/open?id=1o7dTq4oSmgCXW35WEbTe63O-osvn1LjV
+
+CBT Nuggets - Juniper JNCIA-Junos JN0-102 Exam Video Training Course	https://drive.google.com/open?id=1Twx-_WgcRE7MlCMKlfLadx6HEh6agUrt
+
+CBT Nuggets - Cisco CCENT/CCNA 100-105 ICND1 Training Video Course	https://drive.google.com/open?id=1N-cNKE-9knq9eOZ9VrvZPbXLuG09zUUH
+
+CBT Nuggets - Cisco CCNA ICND2 200-105 Training Video Course	https://drive.google.com/open?id=1Nw60o0rbMDX9Xfq5u-pNWv7DwJgItou3
+
+CBT Nuggets - Cisco CCNA Security 210-260 Training Video Course	https://drive.google.com/open?id=1O8orZvgIFUfIF2ID2zvCfKoCpZecRNSU
+
+CBT Nuggets - Microsoft SharePoint 2016 Fundamentals Training Video Course	https://drive.google.com/open?id=1J7L9pUBx38-WvJfaQ97nHARlbBevX04d
+
+CBT Nuggets - CompTIA Network+ (N10-007) Exam Video Training Course	https://drive.google.com/open?id=1k2i6OjvKCsiVwlcBtQwaNdIuFmLkjqmM
+
+Linkedin Learning - Ubuntu Linux Desktop Training Video Course & Exercise Files	https://drive.google.com/open?id=1dST7kXuEnTV_AuW8aqw0H6538q9EPDSw
+
+CBT Nuggets - CompTIA Cloud Essentials (CLO-001) Training Video Course	https://drive.google.com/open?id=1Cb2IRbxoIHyc0BM8e0-6FRHRczBum6r9
+
+CBT Nuggets - Python Programming Training Video Course	https://drive.google.com/open?id=1rpYBKUQtTg2QPyGJRRxyxTVvZ--Ypeas
+
+CBT Nuggets - CCNP Security FIREWALL v2.0 642-618 Exam Video Training Course	https://drive.google.com/open?id=1X2CMXeN4_qdnTwxalobxawKadJ7sjSTg
+
+CBT Nuggets - AWS Certified SysOps Administrator Associate Level Training Video Course	https://drive.google.com/open?id=1D_ZLyt6cLhYC9xwLItEFi1cTOKEC05E9
+
+CBT Nuggets - Google Cloud Platform Fundamentals Training Video Course	https://drive.google.com/open?id=16IFrx-gY4JpKbEXy47coNSukeIgKXmzS
+
+CBT Nuggets - LPI Linux LPIC-1 102 and CompTIA Linux+ Training Video Course	https://drive.google.com/open?id=1C54GFIkme6FX8PxF-keSuhbArIvSqXkC
+
+CBT Nuggets - LPI Linux LPIC-1 101 and CompTIA Linux+ Training Video Course	https://drive.google.com/open?id=1uSmEhW8AOFGG1Kf_To41mdVEC0f8lDhI
+
+CBT Nuggets - Wireshark Training Video Course	https://drive.google.com/open?id=11u0MiHdNUmsnNmwVwKc2Jw_1pu8vSkzR
+
+CBT Nuggets - Microsoft 70-243 SCCM 2012R2 Training Video Course	https://drive.google.com/open?id=1gt-qUhWUT1d6NtNlbxQwx1NNwalsSxnI
+
+Udemy - Project Management Professional (PMP) 6th Edition Training Video Course	https://drive.google.com/open?id=1oyx53ruMmim4MYHNk-sbPcpm4ql3PeOv
+
+Udemy - Windows Server 2016 Administration & Infrastructure Training Video Course	https://drive.google.com/open?id=1FwxJx-ZyWCgMMrFrpLoYUpoQqjuXb5v9
+
+Ethical Hacking With Python, JavaScript and Kali Linux Training Video Course	https://drive.google.com/open?id=1yimz3tXK-ccv3jU-A3di3uIlQsLzH52N
+
+Udemy - Cloud Computing with Microsoft Azure Training Video Course	https://drive.google.com/open?id=1bqbVLSQoPPv9CO2Ux0_qTwnDC5dYY3rn
+
+CBT Nuggets - ITIL Foundation Training Video Course	https://drive.google.com/open?id=14yO0cwmNGOk-tXAEevL01-r4gvFC9t2a
+
+CBT Nuggets - Project Management Professional (PMP) Training Video Course	https://drive.google.com/open?id=1m6ZGU4nntfoMJAhnQk4bTs9C5rT8RTuX
+
+Infinite Skills - Cloud Computing with AWS Training Video Course	https://drive.google.com/open?id=1Hqd3RWvMrBlD5iw4iFtO_pnMsusbH9ci
+
+Udemy - AWS Certified Solutions Architect Associate 2019 - Complete Training Videos	https://drive.google.com/open?id=1n_rh-bngwp     VxNZmrD9xnwPk8p0rlOs
+
+CBT Nuggets - AWS Certified Solutions Architect Foundations Training Video Course	https://drive.google.com/open?id=1VGm_JhzJzwoEmKi7oVG5Y4sbHsOuUQPz
+
+Udemy - AWS Developer Certification Training Video Course	https://drive.google.com/open?id=1iWaB4dsI78vJmrUyT1INTnGk4hq70Jeh
+
+Eduonix - AWS Fundamentals for Beginners Training Video Course	https://drive.google.com/open?id=1dF44y1XERpo_Ny6oCCW_8SPj3TZt1iUu
+
+Udemy - Introduction to the AWS Command Line Interface (CLI) Training Video Course	https://drive.google.com/open?id=1k_LIrEqgB4Ndo7Vc7O0hosbNdoW4BwIS
+
+Packt - AWS Certified DevOps Engineer - Domain1 Training Video Course	https://drive.google.com/open?id=1T8utCY-fSgdjKIzYXI5cRqcwOuAhYkPi
+
+Packt - AWS Certified DevOps Engineer - Domain2 Training Video Course	https://drive.google.com/open?id=19ldTa3uy2OmqIeEwJ9k8P8LlmOBWfOP-
+
+CBT Nuggets - AWS Foundations Training Video Course	https://drive.google.com/open?id=1NKcO7lR6rz6BQDUD-pceRFpK9ulTbp4W
+
+Udemy - AWS Certified Developer Associate 2019 Training Video Course	https://drive.google.com/open?id=1POsE1R8wk_cElnWm4KpZkNF1pJz05kPi
+
+CBT Nuggets - AWS Certified Solutions Architect - Architecting for AWS Training Video Course	https://drive.google.com/open?id=13qsT53r76w_wb6BT4hgrolvDRpbx-r1Q
+
+Packt - Hands-On PowerShell for Active Directory Training Video Course	https://drive.google.com/open?id=1rxUMCiJDcpVG-LIe59oliSddp7TfYtXw
+
+CBT Nuggets - Cisco CCIE RS5 Infrastructure Security Training Video Course	https://drive.google.com/open?id=17d8yL04KS6sO7iadHvMzFCtV-xGlMRYF
+
+CBT Nuggets - ITIL Intermediate Lifecycle Training Video Course	https://drive.google.com/open?id=1A5Mgg1JIM9m1lZQ1VFEWruMIvoKUxLa5
+
+CBT Nuggets - Cisco CCNP Security 300-207 SITCS Training Video Course	https://drive.google.com/open?id=1poMAVzl-0N-eXH9mjfFmvvnaNc-Kylq8
+
+CBT Nuggets - Microsoft Azure 70-533 Training Video Course	https://drive.google.com/open?id=1cE3HLyeF9Q1OkWOE6isblNqCxyNjUhyl
+
+CBT Nuggets - Microsoft Azure 70-534 Training Video Course	https://drive.google.com/open?id=1UsYamL-R4DOL8rFeIppFH0j1mzOLLhBr
+
+CBT Nuggets - Cisco 300-135 TSHOOT Training Video Course	https://drive.google.com/open?id=1hj8inyZUPQ3HlGSicQCeqY0m7csKQbDj
+
+Microsoft Azure DevOps 2019 Training Video Course	https://drive.google.com/open?id=1N9dts3Iov8RGsMtZgD_H5gcdq3zPlCti
+
+PACKT - Building Professional Android Applications Training Video Course	https://drive.google.com/open?id=159XwqMS1DMgg9-A4kk8OcR8sXaKbJUAF
+
+PACKT - Android Application Architecture Training Video Course	https://drive.google.com/open?id=14NndBcawget0gCJWOBHpRj41DScYS9Gx
+
+CBT Nuggets - VMware vSphere 6.5 (VCP6.5-DCV) Video Training Course	https://drive.google.com/open?id=13tE88sR-qJqZr5dR-bF1HiGCJBeNlLws
+
+CBT Nuggets - VMware vSphere 6 (VCP6-DCV) Training Video Course	https://drive.google.com/open?id=1Zt6M9Pr0pDqHVGFUWvt8emX8hAKz5bDs
+
+CBT Nuggets - VMware vSphere 5.5 VCA-DCV VCP5-DCV Training Video Course	https://drive.google.com/open?id=1Y3lis4tx55hUNtJvGEeSdS7mFm0Luaf9
+
+CBT Nuggets - MCSA 70-461 Querying Microsoft SQL Server 2012 Training Video Course	https://drive.google.com/open?id=1DulZj05HEccy8aoGLznNi1NGNM-UyfSG
+
+CBT Nuggets - MCSE 70-464 Developing Databases Microsoft SQL Server 2012 Training Video Course	https://drive.google.com/open?id=1eZlAiv2-nxg4c_-AYNDZKyAxsh9zTmSg
+
+CBT Nuggets - MCSA 70-346 Microsoft Office 365 Training Video Course	https://drive.google.com/open?id=1COe8QIRZpiHCGJ71hxRbrGBsxkWlB2oC
+
+CBT Nuggets - VMware NSX Introduction and Installation Training Video Course	https://drive.google.com/open?id=1Pw1COalnZUQ9EDv_umKkfdUU9sLWW20E
+
+CBT Nuggets - Juniper JNCIA JN0-101 Training Video Course	https://drive.google.com/open?id=1tK38e15yGrRkp66duTTJklTbakEV6biG
+
+CBT Nuggets - MCSA 70-740 Server 2016 Installation, Storage & Compute Training Video Course	https://drive.google.com/open?id=1ANVju3nZiP68q8blMIbVlmmZ9_xL6MA2
+
+CBT Nuggets - IIS 8.5 Training Video Course	https://drive.google.com/open?id=1AeypUlz9lIr6M21Ubek9FQhvRxQpuyBp
+
+Packt - DevOps Fundamentals with Azure Training Video Course	https://drive.google.com/open?id=1inwprQ7Ofj3h3LPt_pRoMUsGzAgu4yDV
+
+CBT Nuggets - Windows PowerShell v2-v3-v4 Training Video Course	https://drive.google.com/open?id=1OS_V3iTAH-frk0txoQfr4FinpY7GZLBk
+
+Udemy - CICD with Azure DevOps Service 2019 Training Video Course	https://drive.google.com/open?id=1u     D3RUopbVVOuikvlPW5JIHlr93zOxk
+
+PACKT- Machine Learning in the Cloud with Azure Training Video Course	https://drive.google.com/open?id=1juuo_BlbpxN6BMGsZy4elNur4GOatS-I
+
+CBT Nuggets - Prince2 Foundation Training Video Course	https://drive.google.com/open?id=1MITvvqKBDJQiLheCW2gQ5oR8cTdjQUe9
+
+Career Match - Prince2 Practitioner 2017 Edition Training Video Course	https://drive.google.com/open?id=1uBb-SSlJiNwnyG-x3Sfn1LpDdYYnF7vq
+
+Pluralsight - Microsoft Azure Fundamentals Video Training Course	https://drive.google.com/open?id=1tmjnznvK_cv5WcIHrX4xSECIjDJ3s4x8
+
+CBT Nuggets - Palo Alto Networks Firewall Training Video Course	https://drive.google.com/open?id=1T5PYO-5YFEBvX20lIuYsfhV9INiZxnOU
+
+CBT Nuggets - Scrum Master Certification Training Video Course	https://drive.google.com/open?id=14dRSBo7RlHsUTsygWeAxLG52Q-gicI76
+
+CBT Nuggets - PMI Agile Certified Practitioner PMI-ACP Training Video Course	https://drive.google.com/open?id=1PkrP9_VhdCvXP0Nr39yqRZOIIGh1vkNU
+
+CBT Nuggets - Cisco CCNA 200-301 Video Training Course	https://drive.google.com/open?id=1NIwidyZdfBCNUuHkFIoLY4sPeUFV8Mba
+
+	https://drive.google.com/open?id=1tiYrN1r8LWK9_J1TkYfen3ZPUwU5Zbed
+
+CBT Nuggets - Ansible Essentials Training Video Course	https://drive.google.com/open?id=1jeyLinGU52JoJvh9loH3u85lfun4h5-s
+
+CBT Nuggets - ISC2 Security CISSP Training Video Course	https://drive.google.com/open?id=1YaIYi-91un6Gsgg0QPYh1nqUGVQWvjQB
+
+CBT Nuggets - CompTIA A+ 220-901 & 220-902 Training Video Course	https://drive.google.com/open?id=1Ik7ajpFSWXYXGu7dGSkrOtZBAR7Afhjo
+
+	https://drive.google.com/open?id=1pMxYr54NdAfKlv3wEHMU8YoiVqSrFt9a
+
+CBT Nuggets - Microsoft Exchange 2013 70-342 Training Video Course	https://drive.google.com/open?id=12P6QAExMT5StkVQsTCRx15sdOieCN1Rj
+
+CBT Nuggets - Software Defined Switching and Routing with VMware NSX Training Video Course	https://drive.google.com/open?id=1P3yXrmi7kV6rY1uMfd9u-JfZ9VJSD3Ai
+
+CBT Nuggets - MPLS Fundamentals Training Video Course	https://drive.google.com/open?id=1BoyeLF8zKdMT0QHQeF1RBY3Wx9ETTM-u
+
+CBT Nuggets - Citrix Xenapp Xendesktop 7.5 CCA-V CCP-V Training Video Course	https://drive.google.com/open?id=1d6LYKJnuW7C8o_1M23jtL4-dW3KCzqQH
+
+CBT Nuggets - Cisco DevNet Associate 200-901 DEVASC Training Video Course	https://drive.google.com/open?id=1NzmetsKeCDz6_rxLyLd-8iCWWO_9eKH8
+
+CBT Nuggets - VMware Certified Professional - Desktop & Mobility VCP-DTM 2019 Video Course	https://drive.google.com/open?id=1C47BG6rF0xSntVpVAip7k3raDB4AoNNX
+
+CBT Nuggets - Certified Ethical Hacker CEH v8 Training Video Course	https://drive.google.com/open?id=15chMz1WrJ5snqmRLG3r-FiJpL3SSwZ65
+
+Udemy - Complete Ethical Hacking Masterclass Training Videos Course	https://drive.google.com/open?id=1CRQogGj4Sh1OI6mgmoCQVVmQ68vRd4Zm
+
+CBT Nuggets - Cisco CCNA Cyber Ops 210-250 (SECFND) Training Video Course	https://drive.google.com/open?id=10cxVh5tbX9_lCYn19W3Tr2YzpIvoszzb
+
+CBT Nuggets - Cisco CCNA Cyber Ops 210-255 (SECOPS) Training Video Course	https://drive.google.com/open?id=1zM2qTDgfdm8oytaNv8GQhWUf52xMSpg7
+
+Udemy - Complete 2020 PHP Full Stack Web Developer Bootcamp Training Video Course	https://drive.google.com/open?id=1IT4X0Tm0c_5hWyIEwcnZN8KqB5FnBr2L
+
+CBT Nuggets - White Hat Hacking v10 Training Video Course	https://drive.google.com/open?id=1WkWt_lDSzSfXJVz8Q5ArQlyVLAQ0dLgG
+
+CBT Nuggets - CentOS System Administrator PREP Training Video Course	https://drive.google.com/open?id=1YODKlWkE8IzyyOPAie1P5dgo4KEylzTO
+
+CBT Nuggets - BackTrack and Kali Linux Training Video Course	https://drive.google.com/open?id=12gN9VxE8FSosC0jAu3tBPb3uOHj38h9z
+
+Pluralsight - Combining PRINCE2 and Agile 2019 Training Video Course	https://drive.google.com/open?id=1ry0SKNGbWgeUjU39Y213OS9ks6iQah7u
+
+Linux Academy - Linux Foundation Certified Engineer (LFCE) 2019 Video Training Course	https://drive.google.com/open?id=1tsR8k3SC3r-mLgyixJZjTlsGwkYOO8na
+
+SkylineAcademy - Microsoft AZ-500 Certification - Azure Security Technologies - Video Course	https://drive.google.com/open?id=1hQpIp1zd05QoumcNgyL8caSc_GPfTHqM
+
+CBT Nuggets - Cisco CCNP Security 300-206 SENSS Training Video Course	https://drive.google.com/open?id=1NxFt51pworeInF1J8dLaoM_2wquYFx11
+
+CBT Nuggets - Cisco CCNA Cloud 210-451 Training Video Course	https://drive.google.com/open?id=1nfMk2J6zd5Sjmj9vKS-Pw9DX4HBeNLJ_
+
+CBT Nuggets - Docker Training Video Course	https://drive.google.com/open?id=1XierRQWyrJG6NYOE91pcF0XcD0_gkROG
+
+CBT Nuggets - CCNA Collaboration 210-065 CIVND1 Training Video Course	https://drive.google.com/open?id=1ydsnuaXeNmCmTecXbEtbVo2QVvmbxjOa
+
+CBT Nuggets - CCNP Routing & Switching 300-115 Switch Training Video Course	https://drive.google.com/open?id=1QLmSZZJp9oSbon0lSYMC3UkihFvcwMWJ
+
+CBT Nuggets - Cisco CCNA Wireless 200-355 WIFUND Training Video Course	https://drive.google.com/open?id=1v8WmqsVaxjPDA711wHZalRs2-8C7v1Sf
+
+CBT Nuggets - Comptia A+ Core 1 220-1001 Training Video Course	https://drive.google.com/open?id=1xLZsYtXPcAwHlwPeFd-6_2OukfBwUS_p
+
+CBT Nuggets - CompTIA Cloud+ - CV0-002 - Training Video Course	https://drive.google.com/open?id=11eCv5ufmMUHpQ12R0tHhVGeVwYsNe55h
+
+Udemy - AWS Certified Machine Learning Specialty 2020	https://drive.google.com/open?id=1OIGI9vPgxzeXknpINomhWppfOlorHRLo
+
+Udemy - AWS Certified Developer Associate 2020 Video Training Course	https://drive.google.com/open?id=1Xoj2MSs0si-CCvWuHKZrvltQxE5ktWJG
+
+CBT Nuggets - MCSA 70-742 Identity with Windows Server 2016 Training Video Course	https://drive.google.com/open?id=12UBH6RvrjE72NMpsgvM1uYB6E4cwDYT2
+
+CBT Nuggets - Cisco CCT Data Center - 010-151 DCTECH Training Video Course	https://drive.google.com/open?id=1Obk8-60lt50F0GwaOEbfMaBHVCt_YMJK
+
+PACKT - MS-100 Managing Office 365 Identities and Requirements Training Video Course	https://drive.google.com/open?id=1cLYs9tJL9atoyOEz1a_G9D9XRyTuRr2V
+
+Udemy - AZ-900 Microsoft Azure Fundamentals Certification Video Training Course	https://drive.google.com/open?id=11-BrYkHsMHgIDi4h71RxPj-twq0bGBGk
+
+Udemy - Cisco CCNP Enterprise (ENARSI + ENCOR) Training Video Course	https://drive.google.com/open?id=1VvXG0N3f_wiPgdGXAUZ4xoEoWWYLxA3v
+
+Microsoft Azure Administrator (Exam AZ-103) Training Video Course	https://drive.google.com/open?id=1GMZ7POCzxipHtVu9RrkPQ3DmU0nfoH6u
+
+DionTraining - ITILv4 Foundation Training Video Course & Practice Exam Questions	https://drive.google.com/open?id=1tFb1EfYQCMtWlH-DrZwL-UbF3fXeugXf
+
+Microsoft Azure Active Directory Mastery Training Video Course	https://drive.google.com/open?id=15oD4TRy6tHrjOpPXl-SRxhyc3XNTRzxG
+
+Udemy - WordPress Website Business Training Video Course	https://drive.google.com/open?id=1Lab0AfuWs3vBfHVcrETi14BgJvXE1XZl
+
+CBT Nuggets - CompTIA Security+ SY0-501 Training Video Course	https://drive.google.com/open?id=1X_9B33qINeXXS92WrSPCjybIYgwcPFof
+
+Udemy - Microsoft Office 365 SharePoint for End Users Training Video Course	https://drive.google.com/open?id=1GzFzMOhd9y_4PqSlv-i1Lknfyzc8dGtp
+
+Udemy - Photoshop Training From Beginner to Pro Training Video Course	https://drive.google.com/open?id=19qApHj92ia5T2p4cxaYrmOJeK-uiw1ps
+
+CBT Nuggets - Comptia A+ Core 2 220-1002 Training Video Course	https://drive.google.com/open?id=1lBCa_T3jb1kzrDoixjeqlHWcgYnZGV93
+
+CBT Nuggets - MS-100 Microsoft 365 Identity and Services Training Video Course	https://drive.google.com/open?id=1SOjr1n0EE_ffSJOmi7Ub-X51Dbd_EdXd
+
+CBT Nuggets - Cisco CCNP Routing and Switching 300-101 Route Training Video Course	https://drive.google.com/open?id=1yIfGdlvaOPuJ_yzkZcmDeL5BVFLey4re
+
+CBT Nuggets - ISACA CISA Training Video Course	https://drive.google.com/open?id=1hyXUoeVTE20dUu6a5owhI_J2Rdduijd-
+
+Udemy - Business Intelligence Analyst 2020 Training Video Course	https://drive.google.com/open?id=1aGAplAgTGFOUPDUVjlUI4c7MOWlCrqYn
+
+CBT Nuggets - Cisco CCNP Automating Enterprise Solutions (300-435 ENAUTO) Video Course	https://drive.google.com/open?id=1xOfMEKzdhzeBclgyY_jrSn6IC1SaYtJT
+
+CBT Nuggets - Cisco CCNA 200-301 Labs - Cisco for the Real World Training Video Course	https://drive.google.com/open?id=1DTIXfOP5o4LZQ366gG9qstERdm9wh218
+
+CBT Nuggets - IT Expert - Installing Network Cabling and Devices Training Video Course	https://drive.google.com/open?id=1HP6zC_Xpc6xdw9jE1dUeM-roAnVPR92R
+
+ITProTV-Cisco CCNP Enterprise ENCOR (350-401) Video Training Course	https://drive.google.com/open?id=1Tp1RtzF4_bw6sPN7A1d2CV-mXSQ1V6X7
+
+Udemy - Microsoft Word - Basic & Advanced Training Video Course	https://drive.google.com/open?id=1Gv0htmI9jdHgqslNJuIAWLgzjWiG_fOk
+
+Udemy - Microsoft Excel - Beginner to Expert and Excel VBA Training Video Course	https://drive.google.com/open?id=1NllLI6-OQ_FhiSQGK8JwdwgJhr9PWx3r
+
+CBT Nuggets - CCNP Security VPN v2.0 642-648 Training Video Course	https://drive.google.com/open?id=1qxmQBWYB0IQnfmun9UWx4ZDtK84Brfco
+
+Linux Academy - Introduction to Android Development Training Video Course	https://drive.google.com/open?id=1KHOZ7pbgUVZNwdMUss98AsJjgu0vIbsS
+
+Linux Academy - Introduction to Ruby Programming Language on Linux Training Video Course	https://drive.google.com/open?id=1A-BoNNjgD_4j9GQ3-hteoNkkXw3TvFkF
+
+Linux Academy - Google Cloud Platform Essentials Training Video Course	https://drive.google.com/open?id=1X9FTXLjra-mmHRvndgcs_Ed6_bL8ZBdr
+
+CBT Nuggets - Cisco CCNP Enterprise Core ENCOR (350-401) Training Video Course	https://drive.google.com/open?id=17erUf9tmZV7ihAaGvSygAOYae7k_WnDC
+
+Udemy - Cisco CCNA 200-301 Complete Video Course & Practical Labs	https://drive.google.com/open?id=1i9rAbjEzgCGXZW2Zdqi27_b4n015hPa0
+
+Offensive Security - Penetration Testing with Kali Linux Training Video Course	https://app.box.com/s/zq7hjyeqd4wwtg9f7w0y6fs7qphbgpof
+
+Udemy - Offensive Security Engineering Training Video Course	https://drive.google.com/open?id=1HoTs5s3JAoUQ64-63mrst39cWKr6v-KO
+
+Udemy - Intro to Project Management with PRINCE2 and PRINCE2 Agile Training Video Course	https://drive.google.com/open?id=1CyuvoaLdRnnd4W1thXRfzEyUQ8axwvio
+
+ITProTV - VMware VCP65-DCV (Updated for vSphere 6.7) Training Video Course	https://drive.google.com/open?id=1oJAlQarj9UslIKWLpUXWbMe2af0NXyxM
+
+CBT Nuggets - Cisco CCNA Data Center 640-916 DCICT Video Training Course	https://drive.google.com/drive/folders/1v0KyxWgpnLHxKwBFEKR2T5fehNJMC87j?usp=sharing
+
+CBT Nuggets - MCSA 70-698 Installing & Configuring Windows 10 Training Video Course	https://drive.google.com/drive/folders/1GYAOssKE6kgpVFirVu-pBw32o9DWk5I8?usp=sharing
+
+CBT Nuggets - NetApp Certified Storage Associate NCSA NS0-145 Training Video Course	https://drive.google.com/drive/folders/1mHxhQQeu9basq7hxAvUYebH7TOzCg0dR?usp=sharing
+
+CBT Nuggets - F5 BIG-IP Local Traffic Manager Training Video Course	https://drive.google.com/drive/folders/1Y3NoxNuCvN7V7G_v_P_XXZIu4aFK4d8O?usp=sharing
+
+Udemy - Six Sigma Green Belt Certification Training Video Course	https://drive.google.com/drive/folders/16Qc6bBTpZmhhbB4u5oZQU9misYz4bdsQ?usp=sharing
+
+Udemy - Six Sigma Yellow Belt Certification Training Video Course	https://drive.google.com/drive/folders/1k2W4Z969WpL2Ngm7z04E2xrVSSAyuY6K?usp=sharing
+
+SimnSEZIT - Introduction to Microsoft Project 2016 for Beginners Video Training Course	https://drive.google.com/drive/folders/1F8H-AdU_yYyljZ6acjeyb4Rw7uxT8DVy?usp=sharing
+
+Udemy - Microsoft Project BEGINNER to EXPERT Training Video Course	https://drive.google.com/drive/folders/1cJColgCSWPs5WXZzvrEJgD9O5rd7_TAZ?usp=sharing
+
+Udemy - Lean Six Sigma Green Belt Basics Tranining Video Course	https://drive.google.com/drive/folders/1cUE4-U6SQXO4gCNQ0oXmBHt71Ojnbnr6?usp=sharing
+
+Udemy - Six Sigma White Belt Training Video Course	https://drive.google.com/drive/folders/1d54fHQWfwxXEUwlH97HKxAnjFXkBpe3D?usp=sharing
+
+Udemy - AZ-103 AZ-104 Azure Administrator Exam Certification 2020 Training Video Course	https://drive.google.com/drive/folders/1ckDJEv0bLjI8dQ4xkc1B2FPquFb2UQ9K?usp=sharing
+
+Udemy - Microsoft Azure Administrator AZ-104 Training Video Course	https://drive.google.com/drive/folders/1d_m5UOklttXnFPDNGNGjT0Xjx7BT5hRS?usp=sharing
+
+Udemy - Introduction to Cyber Security ISO 27001 ISMS Training Video Course	https://drive.google.com/drive/folders/1dw5mgcn9dU8ArxugyTF3BYsUNmb68b-d?usp=sharing
+
+PluralSight - Preparing Your Organization for ISO 27001 Compliance Certification Video Course	https://drive.google.com/drive/folders/1rtM7tZ14nBYbSUJ-tvrSuqjzeuoHR8Ak?usp=sharing
+
+CBT Nuggets - Cisco CCIE RS Core Concepts - VPN Technologies Training Video Course	https://drive.google.com/drive/folders/1V7oABVc8dMBtgRHVAf0xLqi-gM3LLiZ3?usp=sharing
+
+CBT Nuggets - Cisco CCNP Enterprise 300-410 ENARSI Video Training Course	https://drive.google.com/drive/folders/1uFrO6taMGPr8aZ72Ymqa0PhEuNGMZbpr?usp=sharing
+
+Udemy - AWS Master Class Databases In The Cloud With AWS RDS Training Video Course	https://drive.google.com/drive/folders/1J06Hscrd2LUz6PeoO0gRhPU51cOdEM5d?usp=sharing
+
+Udemy - Learning VMware vSAN Video Training Course	https://drive.google.com/drive/folders/1gtA6fGrfLN46LR5bDm6RW3Y2iZHsQEQr?usp=sharing
+
+Pluralsight - VMware Virtual SAN (VSAN) Fundamentals Training Video Course	https://drive.google.com/drive/folders/1MXFvnmf-M37JD1BDCT1V_AAWFtrdnOPL?usp=sharing
+
+Designing, Implementing & Managing VMware vSAN in Production Training Course	https://drive.google.com/drive/folders/1FVVuUUKT50QvtecNWgbBeZTaIn-Vqv0U?usp=sharing
+
+Udemy - Clear and Simple VMware vSAN 6.7 (Virtual SAN) Training Video Course	https://drive.google.com/drive/folders/1jy6ui9MEczMzvlxAWxRZejnLgBw_r54K?usp=sharing
+
+Udemy - AWS Certified Big Data Specialty - In Depth & Hands On Training Video Course	https://drive.google.com/drive/folders/1K4fuDN-LbZMO16Ff8FTm2_Liyuct9eU_?usp=sharing
+
+Udemy - Big Data Analytics with AWS and Microsoft Azure Training Video Course	https://drive.google.com/drive/folders/1ShrtLiTiXKv7_R5FVkdnHc1nyrczZCwh?usp=sharing
+
+Udemy - Java Spring Masterclass - Learn Spring Framework 5 Training Video course	https://drive.google.com/drive/folders/1Mdtn7zw7tFC7tRhdS6Wd5vfcfgaVCRdv?usp=sharing
+
+Packt - CISM Domain 1 Information Security Governance Boot Camp Training Video Course	https://drive.google.com/drive/folders/1hpX7c0-Mp37XJVJS5Q549wa_7koIq5fA?usp=sharing
+
+Packt - CISM Domain 2 Information Risk Management Boot Camp Training Video Course	https://drive.google.com/drive/folders/1lMIzeAK_sf79wNapzTf62362Dub6i7uE?usp=sharing
+
+Packt - CISM Domain 3 Information Security Program Development & Management Video Course	https://drive.google.com/drive/folders/1JUZw47PxYTqqmMtGjTiy_J2A8eNnWwmb?usp=sharing
+
+Packt - CISM Domain 4 Information Security Incident Management Boot Camp Video Course	https://drive.google.com/drive/folders/1tOnXM383Xb-SC2-W8wX5qNAkJAkVbRh9?usp=sharing
+
+Udemy - Quality Management Systems Management & Control of Quality Training Video Course	https://drive.google.com/drive/folders/1CtFEzJMW5dvIDJLOGH55Q20uwGc0VRFz?usp=sharing
+
+CBT Nuggets - Cisco CCNA Service Provider SPNGN1 640-875 Training Video Course	https://drive.google.com/drive/folders/1BH8sKUFNcPYUpQdV-epYd7xpYV7YAHnz?usp=sharing
+
+CBT Nuggets - Cisco CCNA Service Provider SPNGN2 640-878 Training Video Course	https://drive.google.com/drive/folders/1IOlS_Khj-RZ2evVGvvdds2r5CaNS6baw?usp=sharing
+
+Linkedin - Introduction to Kali Linux Training Video Course	https://drive.google.com/drive/folders/1_UO_kmV4UJ15WKgtdOsEqdROI72PydLq?usp=sharing
+
+Linkedin - Learning Python GUI Programming Training Video Course	https://drive.google.com/drive/folders/1N3NnybRh9bbio5feCrddFm7M5b4BfvKz?usp=sharing
+
+Linkedin - Up and Running with Python & Django Training Video Course	https://drive.google.com/drive/folders/1b2L1lJvu3N3dIzdHiEEcGdsCn5x_mJod?usp=sharing
+
+ACloud Guru - AZ-103 Microsoft Azure Administrator 2020 Training Video Course	https://drive.google.com/drive/folders/10gxk_DWBWzIoEsKL5Mz6xY-_gVQEFZuo?usp=sharing
+
+Udemy - Red Hat Certified System Administrator (RHCSA 8) Boot Camp Training Video Course	https://drive.google.com/drive/folders/1d7IB9abKbkU9OcM6goDEBqcQmDAMeVb9?usp=sharing
+
+Udemy - MS-500 Microsoft 365 Security Administration Lectures & Labs Video Course	https://drive.google.com/drive/folders/1gY633sEfCExy3935KrLtv3Viuwax6ZtS?usp=sharing
+
+CBT Nuggets - IT Expert - Building & Configuring a Business Wireless Network Video Course	https://drive.google.com/drive/folders/191-zExTjhBxHS5AQk4EAUjDfe6DQoVZo?usp=sharing
+
+CBT Nuggets - CompTIA Storage + SG0-001 Training Video Course	https://drive.google.com/drive/folders/1iOUisdgwpRgdhgOzdb3Xe9xxUVQPgr0b?usp=sharing
+
+CBT Nuggets - IPv4 Subnetting Training Video Course	https://drive.google.com/drive/folders/18sQ5rFLgriw0Y7ZNJ2ZZkRkpWSJPMzOf?usp=sharing
+
+CBT Nuggets - IT Expertise - Building and Configuring a Business Switch Network Video Course	https://drive.google.com/drive/folders/1rg7RHeZz-kgksYV9lc9eKnWk8jukheul?usp=sharing
+
+Packt - Serverless Computing with Azure Training Video Course	https://drive.google.com/drive/folders/1jpSKfDKC8ckTz80vLyxcZwjq_RmalXKN?usp=sharing
+
+Packt - Microsoft Azure Storage SDK Training Video Course	https://drive.google.com/drive/folders/1EpkVb1269zXm9s4vGcBr3K_ZjZPNtyIa?usp=sharing
+
+Packt - Microsoft Azure SQL Database Administration Training Video Course	https://drive.google.com/drive/folders/14JC-Ze_dIRQy1PGAG4ywEnoRBTXcDqwg?usp=sharing
+
+Udemy - RHCE Red Hat Certified Engineer Training Video Course	https://drive.google.com/drive/folders/1d0AxPWJ8zpgDtADCG4fKWciKVbwhlRok?usp=sharing
+
+Pluralsight - High Availability on Microsoft Azure Training Video Course	https://drive.google.com/drive/folders/1MTw-wGWAJGS9RqzNhZUbbSeQCGTtmnBB?usp=sharing
+
+Udemy - Microsoft Excel Data Analysis Training Video Course	https://drive.google.com/drive/folders/1xzBYwjHZu8sLnbq7LSDuetdK7zQXtIuS?usp=sharing
+
+Pluralsight - Microsoft Azure Developer Implementing CDNs for Storage Training Video Course	https://drive.google.com/drive/folders/1InpfDME-DUPVy-43iF37IUTdbwIjtsoK?usp=sharing
+
+Pluralsight - Microsoft Azure Developer Implementing Blob Storage Training Video Course	https://drive.google.com/drive/folders/15Y8JEN18Y_w-kfisN08z2hxnFM9sMnry?usp=sharing
+
+Pluralsight - Managing Microsoft Azure Information Protection Training Video Course	https://drive.google.com/drive/folders/10ASGTf3_ZXXEMTdXt_Wbnw7syA1ICsdG?usp=sharing
+
+SkylineAcademy - Microsoft AZ-100 - Microsoft Azure Infrastructure & Deployment Video Course	https://drive.google.com/drive/folders/1RLcK9JsYJwqnq3kmhsYjc8bicmlkPGvN?usp=sharing
+
+Udemy - SQL Beginner to Guru MySQL Edition Training Video Course	https://drive.google.com/drive/folders/1fbhZqXX5MsCuotZ2ea113x4SKTgdYlEw?usp=sharing
+
+Udemy - The Ultimate MySQL Bootcamp from SQL Beginner to Expert Training Video Course	https://drive.google.com/drive/folders/1UAZXsPk-P7VWEMs3eMs5PPg3jExTbK_9?usp=sharing
+
+Packt - Bash Scripting & Shell Programming (Linux Command Line) Training Video Course	https://drive.google.com/drive/folders/1VK_MBZv_gK3m_CdyVJMjp9V-vyH2SnAz?usp=sharing
+
+Udemy - PostgreSQL Advanced SQL Queries and Data Analysis Training Video Course	https://drive.google.com/drive/folders/199p1FKpAKp2LBwm6tAffQobfKPFMYL46?usp=sharing
+
+PHP for Beginners - Become a PHP Master Training Video Course	https://drive.google.com/drive/folders/1KathdSgva3kIRfokjFrtHpfESzahaRmP?usp=sharing
+
+CBT Nuggets - Google Cloud SQL Qualified Developer Training Video Course	https://drive.google.com/drive/folders/1KpnRZJtQP2JcU6_mw7EqpglyIKMBLxBv?usp=sharing
+
+Udemy - Database Design & Management MySQL, Oracle & PostgreSQL Training Video Course	https://drive.google.com/drive/folders/1woo7opDhDsJQSYJxk33GTDnvb8Am_yDl?usp=sharing
+
+CBT Nuggets - Juniper Networks Certified Specialist Security (JNCIS-SEC) JN0-332 Video Course	https://drive.google.com/drive/folders/1uEUl57TaP6n28O3pDIwgFc6pdBPNskjI?usp=sharing
+
+CBT Nuggets - Certified Ethical Hacker CEH v9.0 Training Video Course	https://drive.google.com/drive/folders/1jA9AF8jyXRT4qdtMBLitwpBiqvvpUbz6?usp=sharing
+
+CBT Nuggets - Apache Hadoop Training Video Course	https://drive.google.com/drive/folders/1ILunI5IW7GUrDDDhspTKNJOVQpQFkLho?usp=sharing
+
+CBT Nuggets - Database Fundamentals Training Video Course	https://drive.google.com/drive/folders/1w-BK_hB7eMkwiRT4k9wI0-GNsXL606nx?usp=sharing
+
+CBT Nuggets - Check Point CCSA GAiA 156-215.76 Training Video Course	https://drive.google.com/drive/folders/17K8F7L33_QUsJYoUfcQhwO3G72ekzhUR?usp=sharing
+
+Udemy - Top Database Bundle - MySQL, PostgreSQL, SQLite3, SQL Server Video Course	https://drive.google.com/drive/folders/1rxntNcqQPQPOeIfzE0YL4NEtUncUsrJJ?usp=sharing
+
+Udemy - Microsoft MD-100 Windows 10 Training Video Course	https://drive.google.com/drive/folders/176x8Eudt9Wj9e8ns7jS6f78aJiCFjjwU?usp=sharing
+
+Udemy - Advanced JavaScript Concepts Training Video Course	https://drive.google.com/drive/folders/16tifUamKqPaiw07Pc8-u--CNocOcEKCh?usp=sharing
+
+Udemy - Complete JavaScript Course For Beginners to Master Training Video Course	https://drive.google.com/drive/folders/1EoABBQOSqDcEFNYWLIYyHhMErgl9y8gR?usp=sharing
+
+Udemy - Become an Expert In Java - Go Beginner To Advanced Training Video Course	https://drive.google.com/drive/folders/1AKga5F6UzHFhvuMPl9zWf6MGxJZfbhac?usp=sharing
+
+Udemy - JavaScript Algorithmic Scripting Advanced Level Training Video Course	https://drive.google.com/drive/folders/1cdKNy8gPf6EqOma0qFzAWeVbEVBLw1_z?usp=sharing
+
+Udemy - JavaScript Algorithmic Scripting Intermediate Level Training Video Course	https://drive.google.com/drive/folders/1NgZG_c82IicG_7DPgOcVX4aJx_KLlzlg?usp=sharing
+
+Udemy - Learn all the Basics of Java and Object-oriented Programming Video Course	https://drive.google.com/drive/folders/19mHOR51MUdSx5rnvObEEH5lm1my530HX?usp=sharing
+
+Pluralsight - Dial Plan for Cisco Collaboration (300-070) CIPTV1 Training Video Course	https://drive.google.com/drive/folders/1_nA-WyXW4JfPMq_pplOEmIA5XzC7c3OX?usp=sharing
+
+CBT Nuggets - Cisco CCNA Collaboration 210-060 CICD Training Video Course	https://drive.google.com/drive/folders/1DI3anlnS5TIjMvkphKLmJjVSvPSdbbbi?usp=sharing
+
+CBT Nuggets - Cisco CCNP Data Center DCUCI 642-999 Training Video Course	https://drive.google.com/drive/folders/1hgj8Ra50ZDnoKI9JkHvvC09AwvYVCqtA?usp=sharing
+
+ITProTV - Certified Ethical Hacker CEH v10 Training Video Course	https://drive.google.com/drive/folders/16uVxEFkZ4CUhQ6HAQYnHiv1g7vUtZ4Cf?usp=sharing
+
+Linkedin - COBIT 2019 Training Video Course	https://drive.google.com/drive/folders/1vUcBB6WAu5x-YVJILEPLLTmgi-oCh75Z?usp=sharing
+
+Cisco - Cisco CCNP Security Core SCOR 300-701 Training Video Course	https://drive.google.com/drive/folders/1un9ZMbdTHVkP9B35MAo7EUYSIRcCN14a?usp=sharing
+
+PluralSight - Backup Recover & Replicate Workload with Veeam Backup & Replication Video Course	https://drive.google.com/drive/folders/11sDGtXIzx25TB3ZDM7gOAWO2eSVGLmdU?usp=sharing
+
+CBT Nuggets - EMC Information Storage and Management EMCISA Training Video Course	https://drive.google.com/drive/folders/1z5BTzy7FuDJDNAqwDE55m3LWeIExaM_n?usp=sharing
+
+CBT Nuggets - Cisco CCNP Data Center DCUFT 642-980 Training Video Course	https://drive.google.com/drive/folders/1Bhavs7YlBE2qCYTlKmRmpBOL2lhwN04_?usp=sharing
+
+CBT Nuggets - Cisco CCNP Security 300-208 SISAS Training Video Course	https://drive.google.com/drive/folders/1SD8Eyt4swuJ_DyEgGfS7_zytP3e_Drxm?usp=sharing
+
+CBT Nuggets - Cisco CCDA 640-864 Designing for Cisco Internetwork Solutions Video Course	https://drive.google.com/drive/folders/1Ay-5BeH9e0ztNTlfSR0JTpckS1DX76Wi?usp=sharing
+
+CBT Nuggets - Cisco Virtual Internet Routing Lab (VIRL) Training Video Course	https://drive.google.com/drive/folders/1273jAp1tCMVJcGXTkQpynCyqNkHFkDHR?usp=sharing
+
+CBT Nuggets - Cisco CCNP Security 300-209 SIMOS Training Video Course	https://drive.google.com/drive/folders/1sN5wM5Q9Kk-S90BQoMv3B5xeed8EodEi?usp=sharing
+
+CBT Nuggets - Check Point CCSA R80 Training Video Course	https://drive.google.com/drive/folders/1srnEB0d1hTAj5DiDq7FQ5XwjZjbYfPy7?usp=sharing
+
+CBT Nuggets - Cisco CCNP CVoice 8.0 642-437 Training Video Course	https://drive.google.com/drive/folders/1aBTk7LIJVHE5c0e8PTMSIuUSXGSHZFOy?usp=sharing
+
+INE - Cisco CCNP Security FirePower SNCF 300-710 Complete Training Video Course	https://drive.google.com/drive/folders/1ZayXACjh_y7rwhBEnS3lBmB68FqWwNm6?usp=sharing
+
+INE - Cisco CCNP 300-735 SAUTO Training Video Course	https://drive.google.com/drive/folders/1k75l4vJ8bdXuqmsXu1br6NScyIbfQKEE?usp=sharing
+
+ACloudGuru - Mastering the AWS Well-Architected Framework Training Video Course	https://drive.google.com/drive/folders/1AOG055l5Ovh-YHidneY00lIdf1DrxNMx?usp=sharing
+
+Udemy - CompTIA Security+ Certification (SY0-501) Complete Training Video Course	https://drive.google.com/drive/folders/1n8X5-eZzRvvtRNk80BWBiEllOMSAs6sK?usp=sharing
+
+Udemy - Microsoft Power BI Training Video Course	https://drive.google.com/drive/folders/1zDxH_i239YCle-plLhRxV9KSlxa2SSU1?usp=sharing
+
+INE - Cisco CCNP 300-720 SESA Training Video Course	https://drive.google.com/drive/folders/1iD8lz4YGJYpCmqt1V8CBNU60-s39WdT1?usp=sharing
+
+INE - Cisco CCNP 300-725 SWSA Training Video Course	https://drive.google.com/drive/folders/1-6AYeVJm18VgoBdlUIaFloP0tRdKKd0t?usp=sharing
+
+INE - Cisco CCNP 300-730 SVPN Training Video Course	https://drive.google.com/drive/folders/1LCKAqcmNPcKlWehIB8sEAYkCVB4jxeAk?usp=sharing
+
+CBT Nuggets - Cisco VoIP CCNP Voice CIPT2 v8.0 642-457 Training Video Course	https://drive.google.com/drive/folders/1sCEZoaRrCBNs4L-7XTXebxdhN6zvA9NM?usp=sharing
+
+LinkedIn - MS-300 Configure and Manage SharePoint Online Training Video Course	https://drive.google.com/drive/folders/1jZ7uH0FAZuXmwejbmHf-nqIY6csgYTiH?usp=sharing
+
+Udemy - C++ Programming - Beginner to Advance Training Video Course	https://drive.google.com/drive/folders/1_BmOiFVvMh-It6MET5cCHxugu77i5V1c?usp=sharing
+
+Udemy - ISO9001 Quality Management System Training Video Course	https://drive.google.com/drive/folders/1L36bss55fF4xO3ufHfUzQLB_6m4qHLyr?usp=sharing
