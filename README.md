@@ -1,11 +1,11 @@
-# 📚 Documentation Hub
+ # 📚 Documentation Hub
 
 Welcome to the **Documentation Hub**! This is your go-to resource for all guides and tutorials.
 
 ## 📂 **Available Documentation**
 
 - **🐧 [Linux Documentation](https://github.com/xrito-o/Documentations/blob/main/linux/linux_documentation.md)**
-- **🇯🇵 [Japanese Language Documentation](https://github.com/xrito-o/Documentations/blob/main/japanese/japanese_language_documentation.md)**
+- **🇯🇵 [ Japanese Language Documentation](https://github.com/xrito-o/Documentations/blob/main/japanese/japanese_language_documentation.md)**
 
 ---
 
