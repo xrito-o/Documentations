@@ -5,7 +5,7 @@ Welcome to the **Japanese Language Documentation Hub**! 🌸 This is your one-st
 ---
 
 ## 📖 **Table of Contents**
-- [🎥 YouTube Channels](#🎥-youtube-channels)
+- [🎥 YouTube Channels](#-youtube-channels)
 - [🛠 Tools](#-tools)
 
 ---
